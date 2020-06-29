@@ -1,0 +1,1 @@
+The problem of classifying adult income (is the income of an adult > 50K or <= 50K?) will be studied. Python scikit-learn machine learning package is used and 3 different predictive models will be tested.
